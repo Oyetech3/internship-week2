@@ -4,3 +4,4 @@ Then i will delete it from my local machine and clone it back to my local machin
 Repostory cloned
 Let me  commit and revert it
 Let me make changes here manually and pull it to my local machine
+let set upsream
