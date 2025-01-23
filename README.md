@@ -5,3 +5,4 @@ Repostory cloned
 Let me  commit and revert it
 Let me make changes here manually and pull it to my local machine
 let set upsream
+Created another branch and merged it to the second branch
